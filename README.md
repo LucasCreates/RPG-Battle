@@ -1,2 +1,2 @@
 # RPG-Battle
-A simple RPG browser battle game.
+A simple RPG browser battle game. (work in progress)
